@@ -65,7 +65,7 @@ export default function CartContextProvider(props) {
   function checkout(formdata) {
     return axios
       .post(
-        `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartid}?url=http://localhost:5173`,
+        `https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartid}?url=https://shopping-site-black-three.vercel.app/allorders`,
         { shippingAddress: formdata },
         { headers }
       )
