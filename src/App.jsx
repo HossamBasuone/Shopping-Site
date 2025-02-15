@@ -19,10 +19,10 @@ import Checkout from "./components/Checkout/Checkout";
 import Allorders from "./components/Allorders/Allorders";
 import Products from "./components/Products/Products";
 import Type from "./components/Type/Type";
-import WishListed from "./components/Wishlisted/Wishlisted";
+import WishListed from "./components/WishListed/WishListed";
 import ForgetPassword from "./components/ForgetPassword/ForgetPassword";
 import ResetPassword from "./components/ResetPassword/ResetPassword";
-import Wishlistprovider from "./Context/Wishlist";
+import Wishlistprovider from "./Context/Wishlistprovider";
 let query = new QueryClient();
 
 let x = createBrowserRouter([
