@@ -22,7 +22,7 @@ import Type from "./components/Type/Type";
 import WishListed from "./components/WishListed/WishListed";
 import ForgetPassword from "./components/ForgetPassword/ForgetPassword";
 import ResetPassword from "./components/ResetPassword/ResetPassword";
-import Wishlistprovider from "./Context/WishlistProvider";
+import Wishlistprovider from "./Context/wishlist";
 
 
 
