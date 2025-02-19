@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/69d069ed-9319-4730-899e-41b2bb25a5e9)Here's a **README** for your **Shopping Site** built with React + Vite and using Context API:  
-
----
-
 # 🛍️ Shopping Site  
 
 A modern e-commerce shopping site built with **React** and **Vite**, using **Context API** for state management. The project features dynamic product listings, a shopping cart, and a fully responsive UI.  
@@ -50,8 +46,8 @@ npm run build
 ## som image from site  
  **Login-Page** – here to add your email after Register.
 
- 
-![image](https://github.com/user-attachments/assets/040643af-2100-49bf-9714-ad8b4181d6fa)
+ ![image](https://github.com/user-attachments/assets/69d069ed-9319-4730-899e-41b2bb25a5e9)
+
 
 
  **Products** – some product in Wishlist .  
