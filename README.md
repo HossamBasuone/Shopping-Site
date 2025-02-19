@@ -5,7 +5,7 @@ A modern **e-commerce platform** built with **React + Vite**, featuring a **shop
 ---
 
 ## 🚀 **Live Demo**  
-🔗 **[View Live Project](shopping-site-black-three.vercel.app)**  
+🔗 **shopping-site-black-three.vercel.app**  
 
 ---
 
