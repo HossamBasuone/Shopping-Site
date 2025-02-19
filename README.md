@@ -1,4 +1,4 @@
-Here's a **README** for your **Shopping Site** built with React + Vite and using Context API:  
+![image](https://github.com/user-attachments/assets/69d069ed-9319-4730-899e-41b2bb25a5e9)Here's a **README** for your **Shopping Site** built with React + Vite and using Context API:  
 
 ---
 
@@ -46,4 +46,12 @@ To create an optimized production build:
 ```bash
 npm run build
 ```  
+
+## som image to site  
+ **Login-Page** – here to add your email after Register.  
+![image](https://github.com/user-attachments/assets/040643af-2100-49bf-9714-ad8b4181d6fa)
+
+ **Products** – some product in Wishlist .  
+ ![image](https://github.com/user-attachments/assets/fb9ed1f0-19a1-4423-b1be-03bb1fd70f1c)
+![image](https://github.com/user-attachments/assets/f3341455-fc18-4c55-b1ec-182bec2c4a17)
 
