@@ -61,6 +61,10 @@ npm run build
 
 ---
 
+Here's your updated **Screenshots** section with improved formatting and spacing:  
+
+---
+
 ## 📸 **Screenshots**  
 
 ### 🔹 **Login Page** – Secure login and registration  
@@ -71,6 +75,23 @@ npm run build
 
 ### 🔹 **Wishlist** – Save your favorite products  
 ![Wishlist](https://github.com/user-attachments/assets/f3341455-fc18-4c55-b1ec-182bec2c4a17)  
+
+### 🔹 **Cart Page** – Review your selected items before checkout  
+![Cart Page](https://github.com/user-attachments/assets/a6644e8e-dfaa-4e95-90eb-4e1835516ec8)  
+
+### 🔹 **Stripe Checkout** – Secure payment process via Stripe  
+![Stripe Checkout](https://github.com/user-attachments/assets/eef3543f-0558-4bdf-8733-8e4237a8dfab)  
+
+### 🔹 **Order History** – Track your past purchases  
+![Order History](https://github.com/user-attachments/assets/309362c2-13e6-4ac2-a386-f9461f2c977e)  
+
+---
+
+This version ensures **consistent spacing and clear descriptions**. Let me know if you need any more refinements! 🚀
+
+
+![image](https://github.com/user-attachments/assets/309362c2-13e6-4ac2-a386-f9461f2c977e)
+
 
 ---
 
