@@ -87,11 +87,3 @@ Here's your updated **Screenshots** section with improved formatting and spacing
 
 ---
 
-This version ensures **consistent spacing and clear descriptions**. Let me know if you need any more refinements! 🚀
-
-
-![image](https://github.com/user-attachments/assets/309362c2-13e6-4ac2-a386-f9461f2c977e)
-
-
----
-
